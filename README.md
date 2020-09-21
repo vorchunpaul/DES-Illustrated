@@ -1,2 +1,2 @@
 # DES-Illustrated
-DES work illustrated
+Не большая программа для илюстрации работы блочного алгоритма шифрования DES
